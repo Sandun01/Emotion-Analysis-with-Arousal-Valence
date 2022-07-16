@@ -8,7 +8,3 @@ Some people come into this world with their emotional arousal response on high a
 There are a number of factors that influence the development of our emotional arousal, including Attachment Styles and Relational Feedback Loops
 
 <img src="/ReadmeResources/arousalGraph.png" width="425px" height="360px">
-
-<a href="https://github.com/Sandun01/Emotion-Analysis-with-Arousal-Valence/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Sandun01">
-</a>
